@@ -7,7 +7,7 @@ package hola;
 
 /**
  *
- * @author DFL244
+ * @author DFL244 y adicional sumo mas cosas para saber si esta funcionando bien
  */
 public class primo {
 
@@ -21,7 +21,7 @@ public class primo {
 
             if(n%i==0){
                 varpri=1;
-                  System.out.println("No es primo es divisible por "+i);
+                  System.out.println("No es primo es divisible por "+i);// No es in primo diisible no es.
                   break;
             }
 
