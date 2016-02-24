@@ -12,7 +12,7 @@ package hola;
 public class primo {
 
  
-    public static void main(String[] args) {
+    public static void main(String[] args) { //Cambios para newBranch
 
         int n=455;
         int pru=n%5;
